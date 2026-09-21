@@ -110,6 +110,7 @@ twitch_miner.mine([
     "savxlandon_",
     "anthemum89",
     "dawsone08",
+    "jynxzi"
 ],                                # Array of streamers (order = priority)
     followers=False,                    # Automatic download the list of your followers
     followers_order=FollowersOrder.ASC  # Sort the followers list by follow date. ASC or DESC
